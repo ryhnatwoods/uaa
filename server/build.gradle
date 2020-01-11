@@ -8,6 +8,9 @@ dependencies {
     provided libraries.tomcatEmbed
     compile libraries.javaxMail
 
+    compile libraries.apacheCommonsRngCore
+    compile libraries.apacheCommonsRngSimple
+    compile libraries.apacheCommonsText
     compile libraries.jsonPath
     compile libraries.zxing
     compile libraries.springBeans
